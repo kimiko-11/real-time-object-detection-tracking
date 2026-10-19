@@ -1,0 +1,7 @@
+ultralytics>=8.2.0
+opencv-python-headless
+numpy
+pandas
+matplotlib
+torch
+torchvision
